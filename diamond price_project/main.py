@@ -77,10 +77,10 @@ save_cleaned_data(df, "data/cleaned_price.csv")
 # =========================
 # 3. DATA VISUALIZATION
 # =========================
-plot_cut_distribution(df)
-plot_price_hist(df)
-plot_scatter(df)
-plot_heatmap(df)
+#plot_cut_distribution(df)
+#plot_price_hist(df)
+#plot_scatter(df)
+#plot_heatmap(df)
 
 
 # =========================

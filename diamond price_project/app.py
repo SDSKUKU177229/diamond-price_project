@@ -122,7 +122,7 @@ if st.button("🚀 Predict Price", use_container_width=True):
     input_data = np.array([[carat, depth, table, x, y, z]])
     result = model.predict(input_data)[0]
 
-    st.balloons()
+   # st.balloons()
 
     st.markdown(f"""
         <div class="result">
